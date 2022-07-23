@@ -1,0 +1,24 @@
+*{
+	margin: 0;
+	background: #2c3e50;
+
+}
+
+.content{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+#inp1,#inp1
+{
+	background: #ecf0f1;
+}
+h2
+{
+	font-family: 'Barlow Semi Condensed';
+	color :white;
+}
+.box{
+	padding-top: 200px;
+}

@@ -1,0 +1,23 @@
+[22-Jul-2022 13:10:01 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in C:\inetpub\wwwroot\newone\index.php on line 37
+[22-Jul-2022 13:10:40 UTC] PHP Parse error:  syntax error, unexpected '?' in C:\inetpub\wwwroot\newone\index.php on line 37
+[22-Jul-2022 13:16:26 UTC] PHP Notice:  Undefined variable: db in C:\inetpub\wwwroot\newone\index.php on line 23
+[22-Jul-2022 13:16:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\newone\index.php:23
+Stack trace:
+#0 {main}
+  thrown in C:\inetpub\wwwroot\newone\index.php on line 23
+[22-Jul-2022 13:16:46 UTC] PHP Notice:  Undefined variable: db in C:\inetpub\wwwroot\newone\index.php on line 23
+[22-Jul-2022 13:16:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\newone\index.php:23
+Stack trace:
+#0 {main}
+  thrown in C:\inetpub\wwwroot\newone\index.php on line 23
+[22-Jul-2022 13:17:19 UTC] PHP Notice:  Undefined variable: db in C:\inetpub\wwwroot\newone\index.php on line 24
+[22-Jul-2022 13:17:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\newone\index.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\inetpub\wwwroot\newone\index.php on line 24
+[22-Jul-2022 13:23:13 UTC] PHP Notice:  Undefined index: img in C:\inetpub\wwwroot\newone\index.php on line 79
+[22-Jul-2022 13:23:13 UTC] PHP Notice:  Undefined index: title in C:\inetpub\wwwroot\newone\index.php on line 83
+[22-Jul-2022 13:23:13 UTC] PHP Notice:  Undefined index: text in C:\inetpub\wwwroot\newone\index.php on line 87
+[22-Jul-2022 13:23:13 UTC] PHP Notice:  Undefined index: img in C:\inetpub\wwwroot\newone\index.php on line 79
+[22-Jul-2022 13:23:13 UTC] PHP Notice:  Undefined index: title in C:\inetpub\wwwroot\newone\index.php on line 83
+[22-Jul-2022 13:23:13 UTC] PHP Notice:  Undefined index: text in C:\inetpub\wwwroot\newone\index.php on line 87

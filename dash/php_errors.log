@@ -1,0 +1,18 @@
+[22-Jul-2022 12:44:39 UTC] PHP Notice:  Undefined index: durum in C:\inetpub\wwwroot\newone\dash\admin.php on line 20
+[22-Jul-2022 13:00:34 UTC] PHP Notice:  Undefined index: durum in C:\inetpub\wwwroot\newone\dash\admin.php on line 20
+[22-Jul-2022 13:05:48 UTC] PHP Notice:  Undefined index: durum in C:\inetpub\wwwroot\newone\dash\admin.php on line 20
+[22-Jul-2022 13:06:48 UTC] PHP Warning:  include(db/data.php): failed to open stream: No such file or directory in C:\inetpub\wwwroot\newone\dash\index.php on line 15
+[22-Jul-2022 13:06:48 UTC] PHP Warning:  include(): Failed opening 'db/data.php' for inclusion (include_path='.;C:\php\pear') in C:\inetpub\wwwroot\newone\dash\index.php on line 15
+[22-Jul-2022 13:06:48 UTC] PHP Notice:  Undefined variable: db in C:\inetpub\wwwroot\newone\dash\index.php on line 18
+[22-Jul-2022 13:06:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\newone\dash\index.php:18
+Stack trace:
+#0 {main}
+  thrown in C:\inetpub\wwwroot\newone\dash\index.php on line 18
+[22-Jul-2022 13:07:11 UTC] PHP Warning:  include(db/data.php): failed to open stream: No such file or directory in C:\inetpub\wwwroot\newone\dash\index.php on line 15
+[22-Jul-2022 13:07:11 UTC] PHP Warning:  include(): Failed opening 'db/data.php' for inclusion (include_path='.;C:\php\pear') in C:\inetpub\wwwroot\newone\dash\index.php on line 15
+[22-Jul-2022 13:07:11 UTC] PHP Notice:  Undefined variable: db in C:\inetpub\wwwroot\newone\dash\index.php on line 18
+[22-Jul-2022 13:07:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\inetpub\wwwroot\newone\dash\index.php:18
+Stack trace:
+#0 {main}
+  thrown in C:\inetpub\wwwroot\newone\dash\index.php on line 18
+[22-Jul-2022 13:11:39 UTC] PHP Notice:  Undefined index: durum in C:\inetpub\wwwroot\newone\dash\admin.php on line 20
