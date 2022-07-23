@@ -13,7 +13,7 @@ It is the card promotion script in Devialt.
 
 ## Installation
 
-Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
+
 
 To log in to the admin panel, you only need to do
 
